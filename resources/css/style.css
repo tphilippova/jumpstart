@@ -55,6 +55,12 @@ ul.mobile {
   margin-top: 11.85rem;
 }
 
+@media only screen and (max-width: 760px) {
+  .jumbotron h1 {
+    font-size: 5.7rem;
+  }
+}
+
 .jumbotron p {
   color: white;
   max-width: 51.3rem;
